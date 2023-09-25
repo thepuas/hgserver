@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="HispanoGamers" Logo="https://imagizer.imageshack.com/img923/7844/AsKS14.png" Description="" >
+   
+   <Server Name="SphereII SDX" Logo="https://imagizer.imageshack.com/img924/8647/hQ87TA.gif">
+         <Description>HGMods
+Paquete de Mods para jugar en el servidor de Hispano Gamers
+		 
+		 </Description>
+         <Downloads>
+            <Download>https://www.mediafire.com/file/fir5j4wgg15nmvh/HGMods.zip</Download>
+         </Downloads>
+      </Server>
+	    
+   </ServerGroup>
+</Servers>
